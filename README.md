@@ -35,10 +35,7 @@ Install Matasploit Framework
   
 ```
 
-#Commands
 
-msfvenom   TO START PROGRAM
-help       TO SEE COMMANDS TO USE
     
 ## FAQ
 
