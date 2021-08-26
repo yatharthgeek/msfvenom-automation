@@ -34,6 +34,11 @@ Install Matasploit Framework
   bundle install
   
 ```
+
+#Commands
+
+msfvenom   TO START PROGRAM
+help       TO SEE COMMANDS TO USE
     
 ## FAQ
 
@@ -47,6 +52,9 @@ Yes Matasploit Framework is the base of this progarm .
 Join Our Telegram Channel @techlogsofficial
 
 Follow Developer on INstagram @im.yatharth
+
+
+
 
 
 
